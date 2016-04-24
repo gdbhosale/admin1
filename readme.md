@@ -1,5 +1,5 @@
 # Install AdminLTE in Laravel
-Create Project admin1
+Create Project admin1 in Laravel 5.2
 ```
 composer create-project --prefer-dist laravel/laravel admin1
 ```
